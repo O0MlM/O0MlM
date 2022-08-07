@@ -4,8 +4,8 @@
 
 
 ### My Contact
-[![Instagram Badge](https://img.shields.io/badge/-0_0omim-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/0_0omim/)](https://instagram.com/0_0omim)
-[![Facebook Badge](https://img.shields.io/badge/-OomimST-dodgerblue?style=flat-square&logo=facebook&logoColor=white&link=https://discordapp.com/users/O0MlM#8250/)](https://discordapp.com/users/O0MlM#8250/)
+[![Instagram Badge](https://img.shields.io/badge/-0__0omim-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/0_0omim/)](https://instagram.com/0_0omim)
+[![Facebook Badge](https://img.shields.io/badge/-Oomim_ST-dodgerblue?style=flat-square&logo=facebook&logoColor=white&link=https://discordapp.com/users/O0MlM#8250/)](https://discordapp.com/users/O0MlM#8250/)
 [![Discord Badge](https://img.shields.io/badge/-O0MlM-royalblue?style=flat-square&logo=discord&logoColor=white&link=https://www.facebook.com/sarisah.tawanwarasak/)](https://www.facebook.com/sarisah.tawanwarasak/)
 
 
