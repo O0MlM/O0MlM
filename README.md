@@ -4,17 +4,9 @@
 
 
 ### My Contact
+[![Discord Badge](https://img.shields.io/badge/-O0MlM-royalblue?style=flat-square&logo=discord&logoColor=white&link=https://www.facebook.com/sarisah.tawanwarasak/)](https://discordapp.com/users/O0MlM#8250/)
 [![Instagram Badge](https://img.shields.io/badge/-0__0omim-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/0_0omim/)](https://instagram.com/0_0omim)
 [![Facebook Badge](https://img.shields.io/badge/-Oomim_ST-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://discordapp.com/users/O0MlM#8250/)](https://www.facebook.com/profile.php?id=100092214051783)
-[![Discord Badge](https://img.shields.io/badge/-O0MlM-royalblue?style=flat-square&logo=discord&logoColor=white&link=https://www.facebook.com/sarisah.tawanwarasak/)](https://discordapp.com/users/O0MlM#8250/)
 
-
-### My Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,java,py,git)](https://skillicons.dev)
